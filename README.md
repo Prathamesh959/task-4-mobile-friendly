@@ -35,5 +35,4 @@ I created a simple website and made it responsive using CSS media queries. The l
 A responsive layout that looks good on both desktop and mobile screens.
 
 ##  GitHub Repository
-> Paste your GitHub link here after uploading the files  
-> Example: `https://github.com/yourusername/task-4-mobile-friendly`
+https://github.com/Prathamesh959/task-4-mobile-friendly
