@@ -27,7 +27,7 @@ I created a simple website and made it responsive using CSS media queries. The l
 - GitHub
 
 ## Files Included
-- `index.html` – The webpage
+- `index4.html` – The webpage
 - `style4.css` – The styles and media queries
 - `README.md` – This file
 
